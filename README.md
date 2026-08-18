@@ -1,4 +1,4 @@
-🧠 Customer Churn Prediction using Artificial Neural Networks (Deep Learning)
+# 🧠 Customer Churn Prediction using Artificial Neural Networks (Deep Learning)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Deep%20Learning-blue?style=for-the-badge&logo=python">
